@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Let U Know</string>
+    <string name="home">Home</string>
+    <string name="my_channels">My Channels</string>
+    <string name="videos">Videos</string>
+    <string name="channels">Channels</string>
+    <string name="settings">Settings</string>
+
+
+</resources>
+
